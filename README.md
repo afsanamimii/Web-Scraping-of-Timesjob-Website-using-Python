@@ -1,6 +1,13 @@
 # Web-Scrapping-of-Timesjob-Website-using-Python
 
-DESCRIPTION:
+
+Demo:
+
+
+![Screenshot 2022-01-30 224600](https://user-images.githubusercontent.com/61627644/151708792-5a533df3-40d1-43e2-b122-f78490c3dc4e.png)
+
+
+Description:
 
 The web -Scraping is done using Beautiful soup. A famous job portal TimesJobs(https://www.timesjobs.com/) is use for this project. From the website we collected belo data:
 
